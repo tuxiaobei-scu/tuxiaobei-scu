@@ -2,6 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/tuxiaobei-scu?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/tuxiaobei-scu?style=social)
 
+- I'm currently working on recommendation algorithms at ByteDance.
 - Student at Sichuan University (School of Cyber Science and Engineering)
 - Pre OIer in [High School Affiliated to Southwest University (西南大学附属中学)](https://zhxy.xndxfz.com/xxcms/)
 - Think twice Code once
